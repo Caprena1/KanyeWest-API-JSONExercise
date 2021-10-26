@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "N3SJ/4P1+Y79TlIH2DgJOjinAXhHWGRNQDM8H1gsEoL2ZK7eFqRb3s5hMVs/I8FgHpgc44HbpxHCYTTyL1jNrA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Caprena\\Desktop\\ORM-Dapper AND API-JSON Folder\\KanyeWest-APIandJSONExercise\\KanyeWest-APIandJSONExercise\\KanyeRest-APIandJSONExercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Caprena\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
